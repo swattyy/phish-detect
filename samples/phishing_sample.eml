@@ -1,0 +1,36 @@
+From: "PayPal Security Team" <security-alert@paypai-support.xyz>
+To: victim@example.com
+Reply-To: attacker-collect@mail-drop.tk
+Return-Path: <bounce@shady-mailer.click>
+Subject: URGENT: Your PayPal Account Has Been Suspended - Immediate Action Required
+Date: Mon, 07 Apr 2026 09:14:33 -0500
+Message-ID: <20260407091433.a1b2c3@paypai-support.xyz>
+X-Mailer: Mass-Mailer Pro 4.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Valued Customer,
+
+We have detected unauthorized activity on your PayPal account. Your account
+has been temporarily suspended to protect your financial information.
+
+You must verify your identity immediately to restore access. Failure to
+act within 24 hours will result in permanent account closure.
+
+Click here to verify your account:
+http://192.168.44.3/paypal-verify/login.php?ref=2891
+
+Alternatively, visit our secure portal:
+https://paypa1-secure-login.xyz/restore?token=abc123
+
+If you believe this is an error, contact our support team right away at
+support@paypai-support.xyz.
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Account Security Division
+
+---
+THIS IS A SAMPLE PHISHING EMAIL FOR EDUCATIONAL PURPOSES ONLY.
+All domains, addresses, and URLs are fictitious.

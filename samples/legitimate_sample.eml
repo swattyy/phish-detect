@@ -1,0 +1,30 @@
+From: "GitHub" <noreply@github.com>
+To: developer@example.com
+Return-Path: <noreply@github.com>
+Subject: [GitHub] A new personal access token was created
+Date: Mon, 07 Apr 2026 14:22:10 +0000
+Message-ID: <ghnotify-20260407-tok-8f3a@github.com>
+X-Mailer: GitHub Notifications
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi developer,
+
+A fine-grained personal access token ("ci-deploy") was recently created
+on your account.
+
+  Name:       ci-deploy
+  Expiration: 2026-07-06
+  Permissions: Contents (read), Metadata (read)
+
+If you did not perform this action, please review your account security
+settings at https://github.com/settings/tokens and revoke any
+unrecognized tokens.
+
+Thanks,
+The GitHub Team
+
+--
+You're receiving this because a security event occurred on your account.
+Manage notification preferences:
+https://github.com/settings/notifications
